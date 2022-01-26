@@ -1,0 +1,15 @@
+C:\Users\Anee\Documents\DIO\GFT\bin\MCD\Debug\net6.0\GFT.exe
+C:\Users\Anee\Documents\DIO\GFT\bin\MCD\Debug\net6.0\GFT.deps.json
+C:\Users\Anee\Documents\DIO\GFT\bin\MCD\Debug\net6.0\GFT.runtimeconfig.json
+C:\Users\Anee\Documents\DIO\GFT\bin\MCD\Debug\net6.0\GFT.dll
+C:\Users\Anee\Documents\DIO\GFT\bin\MCD\Debug\net6.0\ref\GFT.dll
+C:\Users\Anee\Documents\DIO\GFT\bin\MCD\Debug\net6.0\GFT.pdb
+C:\Users\Anee\Documents\DIO\GFT\obj\MCD\Debug\net6.0\GFT.csproj.AssemblyReference.cache
+C:\Users\Anee\Documents\DIO\GFT\obj\MCD\Debug\net6.0\GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anee\Documents\DIO\GFT\obj\MCD\Debug\net6.0\GFT.AssemblyInfoInputs.cache
+C:\Users\Anee\Documents\DIO\GFT\obj\MCD\Debug\net6.0\GFT.AssemblyInfo.cs
+C:\Users\Anee\Documents\DIO\GFT\obj\MCD\Debug\net6.0\GFT.csproj.CoreCompileInputs.cache
+C:\Users\Anee\Documents\DIO\GFT\obj\MCD\Debug\net6.0\GFT.dll
+C:\Users\Anee\Documents\DIO\GFT\obj\MCD\Debug\net6.0\ref\GFT.dll
+C:\Users\Anee\Documents\DIO\GFT\obj\MCD\Debug\net6.0\GFT.pdb
+C:\Users\Anee\Documents\DIO\GFT\obj\MCD\Debug\net6.0\GFT.genruntimeconfig.cache
